@@ -1,0 +1,18 @@
+#begin document (test); part 000
+0 Adam _ (1
+1 Muller _ 1)
+2 is _ _
+3 meeting _ _
+4 Adam _ (2
+5 Smith _ 2)
+6 . _ _
+
+0 He _ (1)
+1 is _ _
+2 taking _ _
+3 him _ (2)
+4 to _ _
+5 a _ (3
+6 restaurant _ 3)
+7 . _ _
+#end document
